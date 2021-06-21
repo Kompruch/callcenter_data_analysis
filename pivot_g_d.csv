@@ -1,0 +1,15 @@
+Case Group,bad,good,All
+TH_Admin,9,32,41
+TH_Content,5,27,32
+TH_Seller CI,0,5,5
+TH_Seller Chat,228,1298,1526
+TH_Seller Digital,161,458,619
+TH_Seller Dispute,12,23,35
+TH_Seller FBL,6,23,29
+TH_Seller Inbound,152,865,1017
+TH_Seller Incident,1,6,7
+TH_Seller Legal,23,81,104
+TH_Seller OB,85,514,599
+TH_Seller Resolution,34,65,99
+TH_Seller SQC,7,52,59
+All,723,3449,4172
